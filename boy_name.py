@@ -7,7 +7,7 @@ itchat.login()
 friends=itchat.get_friends(update=True)
 file_frd=open('c:/workspace/frd.txt','w')
 #file_frd.write(friends)
-file_frd.write('eew')
+#file_frd.write('eew')
 
 
 names1880=pd.read_csv('C:\workspace\pydata-book-master/ch02/names/yob1880.txt',names=['name','sex','births'])
