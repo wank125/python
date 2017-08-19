@@ -27,8 +27,7 @@ plt.imshow(word_cloud)
 plt.axis("off")  
 plt.show() 
 word_cloud.to_file("pjl_cloud.jpg")
-word_cloud.to_file("pjl_cloud.jpg")
-word_cloud.to_file("pjl_cloud.jpg")
+
 
 
  
